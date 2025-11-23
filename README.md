@@ -45,21 +45,3 @@ A code editor like VS Code
 2. Install dependencies
 3. Set up environment variables
 4. Run the application
-
-<br>
-
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for new survey questions, improvements to the algorithm, or bug fixes, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new feature branch.
-
-3. Commit your changes.
-
-4. Push to the branch.
-
-5. Open a Pull Request.
-
-## 📧 Contact
-[Aaryan Saxena] - [aaryansaxena27@gmail.com]
