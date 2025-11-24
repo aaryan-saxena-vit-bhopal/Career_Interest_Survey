@@ -45,3 +45,15 @@ A code editor like VS Code
 2. Install dependencies
 3. Set up environment variables
 4. Run the application
+
+## ℹ️nstructions for Testing 
+Follow the following instructions for the testing the program.
+
+1. Read Carefully
+2. Answer based on Preference, not Skill
+3. Complete All Items
+4. Work at a Steady Pace
+5. Review Your Primary Interests
+6. Treat Results as a Guide, Not a Rule
+7. Explore Suggested Careers
+8. Combine with Other Factors
